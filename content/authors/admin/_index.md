@@ -21,10 +21,11 @@ organizations:
 bio: PhD student studying physical oceanography at the University of Oxford.
 
 interests:
-- Physical oceanography
 - Gyre dynamics
-- Eddy saturation
-- NEMO GCM
+- Sea floor interactions
+- Idealized ocean modelling
+- Diagnostic methods
+- Eddy parametrizations
 
 education:
   courses:
@@ -59,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "andrew.styles@linacre.ox.ac.uk"
+email: "andrew.styles@physics.ox.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,10 +70,7 @@ email: "andrew.styles@linacre.ox.ac.uk"
 ---
 I am a PhD student studying physical oceanography at the University of Oxford. I am based at the department of Atmospheric, Oceanic and Planetary Physics (AOPP) and a student of the Environmental Research DTP.
 
-My research interests include:
-
-* The impact of eddies and the sea floor on gyre dynamics
-* Eddy processes in the Southern Ocean
-* Using NEMO GCM for high resolution modelling.
+I take an interest in the fluid dynamics of the ocean circulation. I study the dynamics of ocean gyres and how they are influenced by both mesoscale eddies and interactions with the sea floor.
+I design idealized models, develop diagnostic methods, and use pen-and-paper analysis to find minimal descriptions of ocean processes seen in models and observations. 
 
 My current research project is a collaboration between the University of Oxford and the Met Office.
