@@ -78,6 +78,7 @@ I study the dynamics of ocean gyres and how they are influenced by eddy activity
 
 Please reach out to me if you would like to meet or collaborate!
 
+
 <p style="text-align: center;">
 {{< svg "static/img/WebsiteIcons.svg" >}}
 </p>
