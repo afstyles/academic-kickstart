@@ -15,5 +15,5 @@ header:
 ---
 The preprint of my first paper is available on [ESSOAr](https://t.co/ly716WNqXD). 
 
-In this article we discruss how the model grid can produce dominant spurious forces in both realistic and idealized model gyres. 
+In this article we discuss how the model grid can produce dominant spurious forces in both realistic and idealized model gyres. 
 
