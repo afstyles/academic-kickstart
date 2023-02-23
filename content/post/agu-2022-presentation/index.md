@@ -26,4 +26,3 @@ I will be presenting two posters:
 
 
 See you in Chicago (or online)! 
-
