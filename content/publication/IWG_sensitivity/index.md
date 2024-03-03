@@ -14,8 +14,8 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-02-09'
-doi: 'https://doi.org/10.22541/essoar.167591042.21189159/v1'
+date: '2023-09-23'
+doi: 'https://doi.org/10.1029/2023JC019711'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -27,9 +27,9 @@ doi: 'https://doi.org/10.22541/essoar.167591042.21189159/v1'
 # publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *JGR Oceans*
+publication: '*JGR: Oceans*'
 # publication_short:
-abstract: 'Estimates of the Weddell Gyre transport vary widely between climate simulations. Here, we investigate if inter-model variability can originate from differences in the horizontal resolution of the ocean model. We run an idealized model of the Weddell Gyre at eddy-parametrized, eddy-permitting, and eddy-rich resolutions and find that the gyre is very sensitive to horizontal resolution and the gyre transport is largest at eddy-permitting resolutions. The eddy-permitting simulations have the largest horizontal density gradients and the weakest stratification over the gyre basin. The large horizontal density gradients induce a significant thermal wind transport and increase the mean available potential energy for mesoscale eddies. Explicit eddies in simulations intensify the bottom circulation of the gyre via non-linear dynamics. If climate models adopt horizontal resolutions that the Weddell Gyre is most sensitive to, then simulations of the Weddell Gyre could become more disparate.'
+abstract: 'Estimates of the Weddell Gyre transport vary widely between climate simulations. Here, we investigate if inter-model variability can originate from differences in the horizontal resolution of the ocean model. We run an idealized model of the Weddell Gyre at eddy-parameterized, eddy-permitting, and eddy-rich resolutions and find that the gyre is strongly sensitive to horizontal resolution. The gyre transport is largest at eddy-permitting resolutions (45 Sv with a noisy bathymetry) and smallest at eddy-parameterized resolutions (12 Sv). The eddy-permitting simulations have the largest horizontal density gradients and the weakest stratification over the gyre basin. The large horizontal density gradients induce a significant thermal wind transport and increase the mean available potential energy for mesoscale eddies. The distribution of eddy kinetic energy indicates that explicit eddies in simulations intensify the bottom circulation of the gyre via non-linear dynamics. If climate models adopt horizontal resolutions that the Weddell Gyre is most sensitive to, then simulations of the Weddell Gyre could become more disparate.'
 
 # Summary. An optional shortened abstract.
 summary: 

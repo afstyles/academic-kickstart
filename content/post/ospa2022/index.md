@@ -1,5 +1,5 @@
 ---
-title: Outstandind Student Presentation Award at AGU!
+title: Outstanding Student Presentation Award at AGU!
 date: '2023-02-23'
 # View.
 #   1 = List

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Physical Oceanographer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: British Antarctic Survey
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student studying physical oceanography at the University of Oxford.
+bio: Physical Oceanographer at the British Antarctic Survey.
 
 # interests:
 # - Gyre dynamics
@@ -68,13 +68,11 @@ email: "afstylesocean@gmail.com"
 #- Researchers
 #- Visitors
 ---
-I am a DPhil (PhD) student studying physical oceanography at the University of Oxford, where I am supervised by [David Marshall](https://www.marshallocean.net/) and [Mike Bell](https://www.metoffice.gov.uk/research/people/mike-bell).
+I am a physical oceanographer at the British Antarctic Survey and I study basin-scale and global-scale circulations alongside their behaviours in climate models.
 
-<!-- I am based at the department of Atmospheric, Oceanic and Planetary Physics (AOPP) and I am a student of the NERC Environmental Research DTP. -->
+I lead the adjoint component of *OceanBound*, an ambitious project to study the role of ocean boundary pressures in the global ocean. As an adjoint modeller, I am using the ECCO state estimate to determine what external forces the boundary pressures are most sensitive to.
 
-My research is all about the fluid dynamics of the ocean and how important circulations are represented in ocean models. 
-
-I study the dynamics of ocean gyres and how they are influenced by eddy activity, the sea floor, and buoyancy forcing. I tackle this research question by designing idealized models, developing diagnostic methods, analyzing Lagrangian trajectories, and exploring possibilities with pen and paper analysis.
+I completed my PhD at the University of Oxford in 2023. I studied the dynamics of the Weddell Gyre and its influence on Southern Ocean ventilation. I tackled this research by designing idealized models, developing diagnostic methods, analyzing Lagrangian trajectories, and exploring possibilities with pen and paper analysis. I continue to study the dynamics of the Weddell Gyre and enjoy a close collaboration with members of the *SO-CHIC* project (Southern Ocean-Carbon and Heat Impact on Climate).
 
 Please reach out to me if you would like to meet or collaborate!
 
